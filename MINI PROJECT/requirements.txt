@@ -1,8 +1,10 @@
 streamlit
 pandas
-#textblob
+#textblob 
+#selenium
 scikit-learn
 yfinance
 plotly
 transformers
 torch
+
