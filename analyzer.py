@@ -28,3 +28,4 @@ def analyze_headline(headline):
         'impact': impact,
         'matched': matched[['Date', 'Headline', 'sentiment', 'similarity']].head(3)
     }
+
